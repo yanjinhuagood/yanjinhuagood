@@ -4,6 +4,8 @@ Focus on <b>Windows Presentation Foundation</b> Development.
 
 Contact Me China Email：yanjinhuamail@163.com
 
+Wechat The Public Number：WPFDevelopers
+
 <br>
 
 |  🎁 Projects   | ⭐ Stars  |📦️ Nuget  |
