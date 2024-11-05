@@ -1,4 +1,4 @@
-<img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" />  
+<!--<img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" />  -->
 
 ### Hey, I'm JinHuaYan
 👨‍💻 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004941).                                               
